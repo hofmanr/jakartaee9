@@ -1,4 +1,4 @@
-# Jakart EE
+# Jakarta EE
 
 Dit project is een voorbeeld van Jakarta EE 9.1 Web Profile.
 
@@ -58,6 +58,6 @@ Er is ook een lite versie, genaamd Jakarta EE 9.1 Web Profile.
 Deze wordt in het algemeen gebruikt voor projecten met REST services, servlets en 
 andere front-end gerelateerde technology.
 
-In plaats van de lite versie kaner ook voor worden gekozen om MicroProfile
+In plaats van de lite versie kan er ook voor worden gekozen om MicroProfile
 te gebruiken. Hierin zitten ook heel veel dezelfde technologieen, 
 maar is meer gefocust op micro services.
